@@ -7,5 +7,7 @@
 # Level 2
 <li> 1. Diagonal Difference </li>
 <li> 2. Plus Minus </li>
+<li> 3. Stair Case </li>
+
 
   
